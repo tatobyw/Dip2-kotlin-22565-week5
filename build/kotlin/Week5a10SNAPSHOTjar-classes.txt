@@ -1,0 +1,1 @@
+D:\WORK DIP2.2\JAVA\Week5a\build\classes\kotlin\main\Account.class;D:\WORK DIP2.2\JAVA\Week5a\build\classes\kotlin\main\Lamp.class;D:\WORK DIP2.2\JAVA\Week5a\build\classes\kotlin\main\MainKt.class
